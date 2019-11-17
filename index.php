@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "Welcome To My App Server";
 ?>
